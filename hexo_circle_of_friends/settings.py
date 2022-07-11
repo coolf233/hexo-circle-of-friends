@@ -44,13 +44,23 @@ SETTINGS_FRIENDS_LINKS = {
     "json_api": "",
     "list": [
         # 示例1：
-        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
+         ["叶开健", "https://xn--qpru0x.cn/", "https://i.xiamuyourenzhang.cn/tx.jpeg"],
+         ["豆豆", "https://amoshk.top/", "https://amoshk.top/img/avatar.png"],
+         ["樗顾", "https://novcu.com", "https://novcu.com/logo.jpg"],
+         ["XIAOMING'S BLOG", "https://vimin.cc/", "https://pic.vimin.cc/logo.png"],
+         ["孤斗", "https://d-d.design/", "https://q1.qlogo.cn/g?b=qq&nk=550444405&s=640"],
+         ["Just Snake", "https://imsnake.cn/", "https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2021/11/20211116172533546.jpeg"],
+         ["生长记", "https://tuboxu.com/", "https://gravatar.loli.net/avatar/920815adaf80a4370487432993337db5?s=400"],
+         ["北枫", "https://beifeng.me/", "https://beifeng.me/wp-content/cache/avatar/cfdfa8583d2851cc6f16137d99a2c45c.png"],
+         ["大米博客", "https://blog.qqsuu.cn/", "https://q4.qlogo.cn/g?b=qq&nk=58866203&s=100"],
+         ["思宁HERE", "https://www.snhere.com", "https://cloud.snhere.cn/link/huoban-f.svg"],
+
+        
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
-        ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"],
+        # ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"],
     ]
 }
 
