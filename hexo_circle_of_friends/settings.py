@@ -49,7 +49,7 @@ SETTINGS_FRIENDS_LINKS = {
          ["樗顾", "https://novcu.com", "https://novcu.com/logo.jpg"],
          ["XIAOMING'S BLOG", "https://vimin.cc/", "https://pic.vimin.cc/logo.png"],
          ["孤斗", "https://d-d.design/", "https://q1.qlogo.cn/g?b=qq&nk=550444405&s=640"],
-         ["Just Snake", "https://imsnake.cn/", "https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2021/11/20211116172533546.jpeg"],
+         ["Just Snake", "https://imsnake.cn/", "https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2021/11/20211116172533546.jpeg","?feed=rss2"],
          ["生长记", "https://tuboxu.com/", "https://gravatar.loli.net/avatar/920815adaf80a4370487432993337db5?s=400"],
          ["北枫", "https://beifeng.me/", "https://beifeng.me/wp-content/cache/avatar/cfdfa8583d2851cc6f16137d99a2c45c.png"],
          ["大米博客", "https://blog.qqsuu.cn/", "https://q4.qlogo.cn/g?b=qq&nk=58866203&s=100"],
