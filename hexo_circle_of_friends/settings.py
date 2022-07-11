@@ -18,7 +18,7 @@
 LINK = [
     {
         "link": "https://www.3328bk.cn/links.html",  # 友链页地址1，修改为你的友链页地址
-        "theme": "common2"
+        "theme": "common1"
     },
     #     {
     #     "link": "https://noionion.top/link/",  # 友链页地址2
@@ -40,8 +40,8 @@ LINK = [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS = {
-    "enable": False,
-    "json_api": "",
+    "enable": True,
+    "json_api": "https://www.3328bk.cn/friend.json",
     "list": [
         # 示例1：
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
