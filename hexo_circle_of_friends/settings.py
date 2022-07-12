@@ -50,7 +50,7 @@ SETTINGS_FRIENDS_LINKS = {
          ["XIAOMING'S BLOG", "https://vimin.cc/", "https://pic.vimin.cc/logo.png"],
          ["孤斗", "https://d-d.design/", "https://q1.qlogo.cn/g?b=qq&nk=550444405&s=640"],
          ["生长记", "https://tuboxu.com/", "https://gravatar.loli.net/avatar/920815adaf80a4370487432993337db5?s=400"],
-         ["北枫", "https://beifeng.me/", "https://beifeng.me/wp-content/cache/avatar/cfdfa8583d2851cc6f16137d99a2c45c.png"],
+         ["北枫", "https://beifeng.me/", "https://q1.qlogo.cn/g?b=qq&nk=41777657&s=0"],
          ["思宁HERE", "https://www.snhere.com", "https://cloud.snhere.cn/link/huoban-f.svg"],
          ["Just Snake", "https://imsnake.cn/", "https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2021/11/20211116172533546.jpeg", "?feed=rss2"],
         # 示例2：使用suffix的配置如下
