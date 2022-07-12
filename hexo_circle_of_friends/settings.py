@@ -52,6 +52,7 @@ SETTINGS_FRIENDS_LINKS = {
          ["生长记", "https://tuboxu.com/", "https://gravatar.loli.net/avatar/920815adaf80a4370487432993337db5?s=400"],
          ["北枫", "https://beifeng.me/", "https://q1.qlogo.cn/g?b=qq&nk=41777657&s=0"],
          ["思宁HERE", "https://www.snhere.com", "https://cloud.snhere.cn/link/huoban-f.svg"],
+         ["秉松博客", "https://blog.iucky.cn/", "https://cdn.my-api.cn/user/w/asset-pic-gitee/20220312201745.png"],
          ["Just Snake", "https://imsnake.cn/", "https://snake-1252886103.cos.ap-shanghai.myqcloud.com/2021/11/20211116172533546.jpeg", "?feed=rss2"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
